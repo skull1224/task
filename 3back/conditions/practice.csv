@@ -1,0 +1,28 @@
+﻿blockType,blockLabel,blockOrderIndex,trialNumber,scoredTrialIndex,relationType,relationLabel,stimulus,stimulusRole,combination,position,isDummy,isTarget,expectedResponse,coranswer,condition,Attribute1,status,nLevel,breakAfter
+practice,연습 블록,1,1,,dummy,더미,릵,dummy,,,1,0,0,,,9,dummy,3,0
+practice,연습 블록,1,2,,dummy,더미,돽,dummy,,,1,0,0,,,9,dummy,3,0
+practice,연습 블록,1,3,,dummy,더미,짋,dummy,,,1,0,0,,,9,dummy,3,0
+practice,연습 블록,1,4,1,phonological,음운 유사,흣,target_anchor,1,first,0,0,0,,,8,target,3,0
+practice,연습 블록,1,5,2,phonological,음운 유사,흗,relation_stimulus,1,second,0,0,0,,,8,phono,3,0
+practice,연습 블록,1,6,3,phonological,음운 유사,흗,relation_stimulus,1,third,0,0,0,,,8,phono,3,0
+practice,연습 블록,1,7,4,phonological,음운 유사,쾟,first_fill,1,fourth,0,0,0,,,8,first_fill,3,0
+practice,연습 블록,1,8,5,orthographic,철자 유사,랏,target_anchor,2,first,0,0,0,,,8,target,3,0
+practice,연습 블록,1,9,6,orthographic,철자 유사,랖,relation_stimulus,2,second,0,0,0,,,8,ortho,3,0
+practice,연습 블록,1,10,7,orthographic,철자 유사,랖,relation_stimulus,2,third,0,0,0,,,8,ortho,3,0
+practice,연습 블록,1,11,8,orthographic,철자 유사,랏,target,2,fourth,0,1,1,space,O_respond,1,target,3,0
+practice,연습 블록,1,12,9,orthographic,철자 유사,깆,target_anchor,3,first,0,0,0,,,8,target,3,0
+practice,연습 블록,1,13,10,orthographic,철자 유사,긱,relation_stimulus,3,second,0,0,0,,,8,ortho,3,0
+practice,연습 블록,1,14,11,orthographic,철자 유사,긱,relation_stimulus,3,third,0,0,0,,,8,ortho,3,0
+practice,연습 블록,1,15,12,orthographic,철자 유사,싳,second_fill,3,fourth,0,0,0,,,8,second_fill,3,0
+practice,연습 블록,1,16,13,phonological,음운 유사,겋,target_anchor,4,first,0,0,0,,,8,target,3,0
+practice,연습 블록,1,17,14,phonological,음운 유사,겄,relation_stimulus,4,second,0,0,0,,,8,phono,3,0
+practice,연습 블록,1,18,15,phonological,음운 유사,겄,relation_stimulus,4,third,0,0,0,,,8,phono,3,0
+practice,연습 블록,1,19,16,phonological,음운 유사,겋,target,4,fourth,0,1,1,space,P_respond,2,target,3,0
+practice,연습 블록,1,20,17,unrelated,무관련,귿,target_anchor,5,first,0,0,0,,,8,target,3,0
+practice,연습 블록,1,21,18,unrelated,무관련,댄,relation_stimulus,5,second,0,0,0,,,8,unrelated,3,0
+practice,연습 블록,1,22,19,unrelated,무관련,댄,relation_stimulus,5,third,0,0,0,,,8,unrelated,3,0
+practice,연습 블록,1,23,20,unrelated,무관련,귿,target,5,fourth,0,1,1,space,U_respond,3,target,3,0
+practice,연습 블록,1,24,21,unrelated,무관련,밫,target_anchor,6,first,0,0,0,,,8,target,3,0
+practice,연습 블록,1,25,22,unrelated,무관련,맹,relation_stimulus,6,second,0,0,0,,,8,unrelated,3,0
+practice,연습 블록,1,26,23,unrelated,무관련,맹,relation_stimulus,6,third,0,0,0,,,8,unrelated,3,0
+practice,연습 블록,1,27,24,unrelated,무관련,갣,second_fill,6,fourth,0,0,0,,,8,second_fill,3,0

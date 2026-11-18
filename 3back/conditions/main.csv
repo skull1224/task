@@ -1,0 +1,550 @@
+﻿blockType,blockLabel,blockOrderIndex,trialNumber,scoredTrialIndex,relationType,relationLabel,stimulus,stimulusRole,combination,position,isDummy,isTarget,expectedResponse,coranswer,condition,Attribute1,status,nLevel,breakAfter
+main,본실험,2,1,,dummy,더미,릵,dummy,,,1,0,0,,,9,dummy,3,0
+main,본실험,2,2,,dummy,더미,돽,dummy,,,1,0,0,,,9,dummy,3,0
+main,본실험,2,3,,dummy,더미,짋,dummy,,,1,0,0,,,9,dummy,3,0
+main,본실험,2,4,1,phonological,음운 유사,흣,target_anchor,1,first,0,0,0,,,8,target,3,0
+main,본실험,2,5,2,phonological,음운 유사,흗,relation_stimulus,1,second,0,0,0,,,8,phono,3,0
+main,본실험,2,6,3,phonological,음운 유사,흗,relation_stimulus,1,third,0,0,0,,,8,phono,3,0
+main,본실험,2,7,4,phonological,음운 유사,쾟,first_fill,1,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,8,5,phonological,음운 유사,귿,target_anchor,2,first,0,0,0,,,8,target,3,0
+main,본실험,2,9,6,phonological,음운 유사,긏,relation_stimulus,2,second,0,0,0,,,8,phono,3,0
+main,본실험,2,10,7,phonological,음운 유사,긏,relation_stimulus,2,third,0,0,0,,,8,phono,3,0
+main,본실험,2,11,8,phonological,음운 유사,퐉,second_fill,2,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,12,9,orthographic,철자 유사,랏,target_anchor,3,first,0,0,0,,,8,target,3,0
+main,본실험,2,13,10,orthographic,철자 유사,랖,relation_stimulus,3,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,14,11,orthographic,철자 유사,랖,relation_stimulus,3,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,15,12,orthographic,철자 유사,랏,target,3,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,16,13,orthographic,철자 유사,깆,target_anchor,4,first,0,0,0,,,8,target,3,0
+main,본실험,2,17,14,orthographic,철자 유사,긱,relation_stimulus,4,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,18,15,orthographic,철자 유사,긱,relation_stimulus,4,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,19,16,orthographic,철자 유사,싳,second_fill,4,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,20,17,orthographic,철자 유사,둣,target_anchor,5,first,0,0,0,,,8,target,3,0
+main,본실험,2,21,18,orthographic,철자 유사,둡,relation_stimulus,5,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,22,19,orthographic,철자 유사,둡,relation_stimulus,5,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,23,20,orthographic,철자 유사,믚,second_fill,5,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,24,21,phonological,음운 유사,겋,target_anchor,6,first,0,0,0,,,8,target,3,0
+main,본실험,2,25,22,phonological,음운 유사,겄,relation_stimulus,6,second,0,0,0,,,8,phono,3,0
+main,본실험,2,26,23,phonological,음운 유사,겄,relation_stimulus,6,third,0,0,0,,,8,phono,3,0
+main,본실험,2,27,24,phonological,음운 유사,겋,target,6,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,28,25,orthographic,철자 유사,밷,target_anchor,7,first,0,0,0,,,8,target,3,0
+main,본실험,2,29,26,orthographic,철자 유사,뱁,relation_stimulus,7,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,30,27,orthographic,철자 유사,뱁,relation_stimulus,7,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,31,28,orthographic,철자 유사,괵,first_fill,7,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,32,29,orthographic,철자 유사,귿,target_anchor,8,first,0,0,0,,,8,target,3,0
+main,본실험,2,33,30,orthographic,철자 유사,긒,relation_stimulus,8,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,34,31,orthographic,철자 유사,긒,relation_stimulus,8,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,35,32,orthographic,철자 유사,왭,first_fill,8,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,36,33,orthographic,철자 유사,괒,target_anchor,9,first,0,0,0,,,8,target,3,0
+main,본실험,2,37,34,orthographic,철자 유사,괍,relation_stimulus,9,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,38,35,orthographic,철자 유사,괍,relation_stimulus,9,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,39,36,orthographic,철자 유사,몡,first_fill,9,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,40,37,unrelated,무관련,귿,target_anchor,10,first,0,0,0,,,8,target,3,0
+main,본실험,2,41,38,unrelated,무관련,댄,relation_stimulus,10,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,42,39,unrelated,무관련,댄,relation_stimulus,10,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,43,40,unrelated,무관련,귿,target,10,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,44,41,orthographic,철자 유사,밷,target_anchor,11,first,0,0,0,,,8,target,3,0
+main,본실험,2,45,42,orthographic,철자 유사,뱁,relation_stimulus,11,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,46,43,orthographic,철자 유사,뱁,relation_stimulus,11,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,47,44,orthographic,철자 유사,녗,second_fill,11,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,48,45,phonological,음운 유사,녔,target_anchor,12,first,0,0,0,,,8,target,3,0
+main,본실험,2,49,46,phonological,음운 유사,녇,relation_stimulus,12,second,0,0,0,,,8,phono,3,0
+main,본실험,2,50,47,phonological,음운 유사,녇,relation_stimulus,12,third,0,0,0,,,8,phono,3,0
+main,본실험,2,51,48,phonological,음운 유사,줃,first_fill,12,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,52,49,unrelated,무관련,갗,target_anchor,13,first,0,0,0,,,8,target,3,0
+main,본실험,2,53,50,unrelated,무관련,눤,relation_stimulus,13,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,54,51,unrelated,무관련,눤,relation_stimulus,13,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,55,52,unrelated,무관련,갗,target,13,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,56,53,phonological,음운 유사,밫,target_anchor,14,first,0,0,0,,,8,target,3,0
+main,본실험,2,57,54,phonological,음운 유사,밧,relation_stimulus,14,second,0,0,0,,,8,phono,3,0
+main,본실험,2,58,55,phonological,음운 유사,밧,relation_stimulus,14,third,0,0,0,,,8,phono,3,0
+main,본실험,2,59,56,phonological,음운 유사,갣,second_fill,14,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,60,57,phonological,음운 유사,랏,target_anchor,15,first,0,0,0,,,8,target,3,0
+main,본실험,2,61,58,phonological,음운 유사,랗,relation_stimulus,15,second,0,0,0,,,8,phono,3,0
+main,본실험,2,62,59,phonological,음운 유사,랗,relation_stimulus,15,third,0,0,0,,,8,phono,3,0
+main,본실험,2,63,60,phonological,음운 유사,샏,second_fill,15,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,64,61,unrelated,무관련,맻,target_anchor,16,first,0,0,0,,,8,target,3,0
+main,본실험,2,65,62,unrelated,무관련,욤,relation_stimulus,16,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,66,63,unrelated,무관련,욤,relation_stimulus,16,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,67,64,unrelated,무관련,맻,target,16,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,68,65,orthographic,철자 유사,옇,target_anchor,17,first,0,0,0,,,8,target,3,0
+main,본실험,2,69,66,orthographic,철자 유사,옄,relation_stimulus,17,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,70,67,orthographic,철자 유사,옄,relation_stimulus,17,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,71,68,orthographic,철자 유사,픠,first_fill,17,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,72,69,unrelated,무관련,밫,target_anchor,18,first,0,0,0,,,8,target,3,0
+main,본실험,2,73,70,unrelated,무관련,맹,relation_stimulus,18,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,74,71,unrelated,무관련,맹,relation_stimulus,18,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,75,72,unrelated,무관련,갣,second_fill,18,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,76,73,orthographic,철자 유사,귿,target_anchor,19,first,0,0,0,,,8,target,3,0
+main,본실험,2,77,74,orthographic,철자 유사,긒,relation_stimulus,19,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,78,75,orthographic,철자 유사,긒,relation_stimulus,19,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,79,76,orthographic,철자 유사,퐉,second_fill,19,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,80,77,orthographic,철자 유사,깆,target_anchor,20,first,0,0,0,,,8,target,3,0
+main,본실험,2,81,78,orthographic,철자 유사,긱,relation_stimulus,20,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,82,79,orthographic,철자 유사,긱,relation_stimulus,20,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,83,80,orthographic,철자 유사,깆,target,20,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,84,81,unrelated,무관련,볓,target_anchor,21,first,0,0,0,,,8,target,3,0
+main,본실험,2,85,82,unrelated,무관련,욱,relation_stimulus,21,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,86,83,unrelated,무관련,욱,relation_stimulus,21,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,87,84,unrelated,무관련,뫅,first_fill,21,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,88,85,orthographic,철자 유사,슷,target_anchor,22,first,0,0,0,,,8,target,3,0
+main,본실험,2,89,86,orthographic,철자 유사,슴,relation_stimulus,22,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,90,87,orthographic,철자 유사,슴,relation_stimulus,22,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,91,88,orthographic,철자 유사,굥,second_fill,22,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,92,89,phonological,음운 유사,멌,target_anchor,23,first,0,0,0,,,8,target,3,0
+main,본실험,2,93,90,phonological,음운 유사,멓,relation_stimulus,23,second,0,0,0,,,8,phono,3,0
+main,본실험,2,94,91,phonological,음운 유사,멓,relation_stimulus,23,third,0,0,0,,,8,phono,3,0
+main,본실험,2,95,92,phonological,음운 유사,앻,first_fill,23,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,96,93,phonological,음운 유사,았,target_anchor,24,first,0,0,0,,,8,target,3,0
+main,본실험,2,97,94,phonological,음운 유사,앝,relation_stimulus,24,second,0,0,0,,,8,phono,3,0
+main,본실험,2,98,95,phonological,음운 유사,앝,relation_stimulus,24,third,0,0,0,,,8,phono,3,0
+main,본실험,2,99,96,phonological,음운 유사,았,target,24,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,100,97,orthographic,철자 유사,겯,target_anchor,25,first,0,0,0,,,8,target,3,0
+main,본실험,2,101,98,orthographic,철자 유사,곂,relation_stimulus,25,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,102,99,orthographic,철자 유사,곂,relation_stimulus,25,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,103,100,orthographic,철자 유사,믛,first_fill,25,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,104,101,unrelated,무관련,렇,target_anchor,26,first,0,0,0,,,8,target,3,0
+main,본실험,2,105,102,unrelated,무관련,쳅,relation_stimulus,26,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,106,103,unrelated,무관련,쳅,relation_stimulus,26,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,107,104,unrelated,무관련,렇,target,26,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,108,105,phonological,음운 유사,겯,target_anchor,27,first,0,0,0,,,8,target,3,0
+main,본실험,2,109,106,phonological,음운 유사,겻,relation_stimulus,27,second,0,0,0,,,8,phono,3,0
+main,본실험,2,110,107,phonological,음운 유사,겻,relation_stimulus,27,third,0,0,0,,,8,phono,3,0
+main,본실험,2,111,108,phonological,음운 유사,믛,first_fill,27,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,112,109,orthographic,철자 유사,튿,target_anchor,28,first,0,0,0,,,8,target,3,0
+main,본실험,2,113,110,orthographic,철자 유사,틍,relation_stimulus,28,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,114,111,orthographic,철자 유사,틍,relation_stimulus,28,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,115,112,orthographic,철자 유사,뉔,first_fill,28,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,116,113,unrelated,무관련,읃,target_anchor,29,first,0,0,0,,,8,target,3,0
+main,본실험,2,117,114,unrelated,무관련,맵,relation_stimulus,29,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,118,115,unrelated,무관련,맵,relation_stimulus,29,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,119,116,unrelated,무관련,읃,target,29,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,120,117,unrelated,무관련,맻,target_anchor,30,first,0,0,0,,,8,target,3,0
+main,본실험,2,121,118,unrelated,무관련,욤,relation_stimulus,30,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,122,119,unrelated,무관련,욤,relation_stimulus,30,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,123,120,unrelated,무관련,뤈,first_fill,30,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,124,121,phonological,음운 유사,갗,target_anchor,31,first,0,0,0,,,8,target,3,0
+main,본실험,2,125,122,phonological,음운 유사,갛,relation_stimulus,31,second,0,0,0,,,8,phono,3,0
+main,본실험,2,126,123,phonological,음운 유사,갛,relation_stimulus,31,third,0,0,0,,,8,phono,3,0
+main,본실험,2,127,124,phonological,음운 유사,윞,first_fill,31,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,128,125,phonological,음운 유사,겯,target_anchor,32,first,0,0,0,,,8,target,3,0
+main,본실험,2,129,126,phonological,음운 유사,겻,relation_stimulus,32,second,0,0,0,,,8,phono,3,0
+main,본실험,2,130,127,phonological,음운 유사,겻,relation_stimulus,32,third,0,0,0,,,8,phono,3,0
+main,본실험,2,131,128,phonological,음운 유사,돰,second_fill,32,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,132,129,orthographic,철자 유사,둣,target_anchor,33,first,0,0,0,,,8,target,3,0
+main,본실험,2,133,130,orthographic,철자 유사,둡,relation_stimulus,33,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,134,131,orthographic,철자 유사,둡,relation_stimulus,33,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,135,132,orthographic,철자 유사,둣,target,33,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,136,133,unrelated,무관련,섣,target_anchor,34,first,0,0,0,,,8,target,3,0
+main,본실험,2,137,134,unrelated,무관련,괸,relation_stimulus,34,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,138,135,unrelated,무관련,괸,relation_stimulus,34,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,139,136,unrelated,무관련,큠,second_fill,34,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,140,137,unrelated,무관련,녔,target_anchor,35,first,0,0,0,,,8,target,3,0
+main,본실험,2,141,138,unrelated,무관련,닦,relation_stimulus,35,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,142,139,unrelated,무관련,닦,relation_stimulus,35,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,143,140,unrelated,무관련,녔,target,35,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,144,141,phonological,음운 유사,옇,target_anchor,36,first,0,0,0,,,8,target,3,0
+main,본실험,2,145,142,phonological,음운 유사,였,relation_stimulus,36,second,0,0,0,,,8,phono,3,0
+main,본실험,2,146,143,phonological,음운 유사,였,relation_stimulus,36,third,0,0,0,,,8,phono,3,0
+main,본실험,2,147,144,phonological,음운 유사,옇,target,36,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,148,145,phonological,음운 유사,얗,target_anchor,37,first,0,0,0,,,8,target,3,0
+main,본실험,2,149,146,phonological,음운 유사,얐,relation_stimulus,37,second,0,0,0,,,8,phono,3,0
+main,본실험,2,150,147,phonological,음운 유사,얐,relation_stimulus,37,third,0,0,0,,,8,phono,3,0
+main,본실험,2,151,148,phonological,음운 유사,퉄,second_fill,37,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,152,149,unrelated,무관련,짗,target_anchor,38,first,0,0,0,,,8,target,3,0
+main,본실험,2,153,150,unrelated,무관련,뀝,relation_stimulus,38,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,154,151,unrelated,무관련,뀝,relation_stimulus,38,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,155,152,unrelated,무관련,귷,second_fill,38,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,156,153,unrelated,무관련,랏,target_anchor,39,first,0,0,0,,,8,target,3,0
+main,본실험,2,157,154,unrelated,무관련,왝,relation_stimulus,39,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,158,155,unrelated,무관련,왝,relation_stimulus,39,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,159,156,unrelated,무관련,샏,second_fill,39,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,160,157,phonological,음운 유사,섣,target_anchor,40,first,0,0,0,,,8,target,3,0
+main,본실험,2,161,158,phonological,음운 유사,섯,relation_stimulus,40,second,0,0,0,,,8,phono,3,0
+main,본실험,2,162,159,phonological,음운 유사,섯,relation_stimulus,40,third,0,0,0,,,8,phono,3,0
+main,본실험,2,163,160,phonological,음운 유사,섣,target,40,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,164,161,phonological,음운 유사,꿋,target_anchor,41,first,0,0,0,,,8,target,3,0
+main,본실험,2,165,162,phonological,음운 유사,꿎,relation_stimulus,41,second,0,0,0,,,8,phono,3,0
+main,본실험,2,166,163,phonological,음운 유사,꿎,relation_stimulus,41,third,0,0,0,,,8,phono,3,0
+main,본실험,2,167,164,phonological,음운 유사,젹,second_fill,41,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,168,165,phonological,음운 유사,읃,target_anchor,42,first,0,0,0,,,8,target,3,0
+main,본실험,2,169,166,phonological,음운 유사,읏,relation_stimulus,42,second,0,0,0,,,8,phono,3,0
+main,본실험,2,170,167,phonological,음운 유사,읏,relation_stimulus,42,third,0,0,0,,,8,phono,3,0
+main,본실험,2,171,168,phonological,음운 유사,댤,second_fill,42,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,172,169,phonological,음운 유사,깆,target_anchor,43,first,0,0,0,,,8,target,3,0
+main,본실험,2,173,170,phonological,음운 유사,깄,relation_stimulus,43,second,0,0,0,,,8,phono,3,0
+main,본실험,2,174,171,phonological,음운 유사,깄,relation_stimulus,43,third,0,0,0,,,8,phono,3,0
+main,본실험,2,175,172,phonological,음운 유사,깆,target,43,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,176,173,unrelated,무관련,읃,target_anchor,44,first,0,0,0,,,8,target,3,0
+main,본실험,2,177,174,unrelated,무관련,맵,relation_stimulus,44,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,178,175,unrelated,무관련,맵,relation_stimulus,44,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,179,176,unrelated,무관련,헢,first_fill,44,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,180,177,phonological,음운 유사,괒,target_anchor,45,first,0,0,0,,,8,target,3,0
+main,본실험,2,181,178,phonological,음운 유사,괏,relation_stimulus,45,second,0,0,0,,,8,phono,3,0
+main,본실험,2,182,179,phonological,음운 유사,괏,relation_stimulus,45,third,0,0,0,,,8,phono,3,0
+main,본실험,2,183,180,phonological,음운 유사,푈,second_fill,45,fourth,0,0,0,,,8,second_fill,3,1
+main,본실험,2,184,,dummy,더미,횋,dummy,,,1,0,0,,,9,dummy,3,0
+main,본실험,2,185,,dummy,더미,먴,dummy,,,1,0,0,,,9,dummy,3,0
+main,본실험,2,186,,dummy,더미,횋,dummy,,,1,0,0,,,9,dummy,3,0
+main,본실험,2,187,181,unrelated,무관련,둣,target_anchor,46,first,0,0,0,,,8,target,3,0
+main,본실험,2,188,182,unrelated,무관련,롹,relation_stimulus,46,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,189,183,unrelated,무관련,롹,relation_stimulus,46,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,190,184,unrelated,무관련,둣,target,46,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,191,185,phonological,음운 유사,렇,target_anchor,47,first,0,0,0,,,8,target,3,0
+main,본실험,2,192,186,phonological,음운 유사,렀,relation_stimulus,47,second,0,0,0,,,8,phono,3,0
+main,본실험,2,193,187,phonological,음운 유사,렀,relation_stimulus,47,third,0,0,0,,,8,phono,3,0
+main,본실험,2,194,188,phonological,음운 유사,쟼,second_fill,47,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,195,189,unrelated,무관련,떻,target_anchor,48,first,0,0,0,,,8,target,3,0
+main,본실험,2,196,190,unrelated,무관련,괜,relation_stimulus,48,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,197,191,unrelated,무관련,괜,relation_stimulus,48,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,198,192,unrelated,무관련,떻,target,48,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,199,193,orthographic,철자 유사,둣,target_anchor,49,first,0,0,0,,,8,target,3,0
+main,본실험,2,200,194,orthographic,철자 유사,둡,relation_stimulus,49,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,201,195,orthographic,철자 유사,둡,relation_stimulus,49,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,202,196,orthographic,철자 유사,퓽,first_fill,49,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,203,197,phonological,음운 유사,밫,target_anchor,50,first,0,0,0,,,8,target,3,0
+main,본실험,2,204,198,phonological,음운 유사,밧,relation_stimulus,50,second,0,0,0,,,8,phono,3,0
+main,본실험,2,205,199,phonological,음운 유사,밧,relation_stimulus,50,third,0,0,0,,,8,phono,3,0
+main,본실험,2,206,200,phonological,음운 유사,밫,target,50,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,207,201,phonological,음운 유사,렇,target_anchor,51,first,0,0,0,,,8,target,3,0
+main,본실험,2,208,202,phonological,음운 유사,렀,relation_stimulus,51,second,0,0,0,,,8,phono,3,0
+main,본실험,2,209,203,phonological,음운 유사,렀,relation_stimulus,51,third,0,0,0,,,8,phono,3,0
+main,본실험,2,210,204,phonological,음운 유사,쇵,first_fill,51,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,211,205,unrelated,무관련,멌,target_anchor,52,first,0,0,0,,,8,target,3,0
+main,본실험,2,212,206,unrelated,무관련,셤,relation_stimulus,52,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,213,207,unrelated,무관련,셤,relation_stimulus,52,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,214,208,unrelated,무관련,숼,second_fill,52,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,215,209,orthographic,철자 유사,짗,target_anchor,53,first,0,0,0,,,8,target,3,0
+main,본실험,2,216,210,orthographic,철자 유사,짘,relation_stimulus,53,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,217,211,orthographic,철자 유사,짘,relation_stimulus,53,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,218,212,orthographic,철자 유사,귷,second_fill,53,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,219,213,phonological,음운 유사,옇,target_anchor,54,first,0,0,0,,,8,target,3,0
+main,본실험,2,220,214,phonological,음운 유사,였,relation_stimulus,54,second,0,0,0,,,8,phono,3,0
+main,본실험,2,221,215,phonological,음운 유사,였,relation_stimulus,54,third,0,0,0,,,8,phono,3,0
+main,본실험,2,222,216,phonological,음운 유사,픠,first_fill,54,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,223,217,phonological,음운 유사,짗,target_anchor,55,first,0,0,0,,,8,target,3,0
+main,본실험,2,224,218,phonological,음운 유사,짇,relation_stimulus,55,second,0,0,0,,,8,phono,3,0
+main,본실험,2,225,219,phonological,음운 유사,짇,relation_stimulus,55,third,0,0,0,,,8,phono,3,0
+main,본실험,2,226,220,phonological,음운 유사,짗,target,55,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,227,221,orthographic,철자 유사,멌,target_anchor,56,first,0,0,0,,,8,target,3,0
+main,본실험,2,228,222,orthographic,철자 유사,멉,relation_stimulus,56,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,229,223,orthographic,철자 유사,멉,relation_stimulus,56,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,230,224,orthographic,철자 유사,숼,second_fill,56,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,231,225,phonological,음운 유사,깆,target_anchor,57,first,0,0,0,,,8,target,3,0
+main,본실험,2,232,226,phonological,음운 유사,깄,relation_stimulus,57,second,0,0,0,,,8,phono,3,0
+main,본실험,2,233,227,phonological,음운 유사,깄,relation_stimulus,57,third,0,0,0,,,8,phono,3,0
+main,본실험,2,234,228,phonological,음운 유사,싳,second_fill,57,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,235,229,phonological,음운 유사,둣,target_anchor,58,first,0,0,0,,,8,target,3,0
+main,본실험,2,236,230,phonological,음운 유사,둗,relation_stimulus,58,second,0,0,0,,,8,phono,3,0
+main,본실험,2,237,231,phonological,음운 유사,둗,relation_stimulus,58,third,0,0,0,,,8,phono,3,0
+main,본실험,2,238,232,phonological,음운 유사,둣,target,58,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,239,233,phonological,음운 유사,었,target_anchor,59,first,0,0,0,,,8,target,3,0
+main,본실험,2,240,234,phonological,음운 유사,엏,relation_stimulus,59,second,0,0,0,,,8,phono,3,0
+main,본실험,2,241,235,phonological,음운 유사,엏,relation_stimulus,59,third,0,0,0,,,8,phono,3,0
+main,본실험,2,242,236,phonological,음운 유사,묠,first_fill,59,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,243,237,orthographic,철자 유사,릇,target_anchor,60,first,0,0,0,,,8,target,3,0
+main,본실험,2,244,238,orthographic,철자 유사,름,relation_stimulus,60,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,245,239,orthographic,철자 유사,름,relation_stimulus,60,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,246,240,orthographic,철자 유사,릇,target,60,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,247,241,unrelated,무관련,튿,target_anchor,61,first,0,0,0,,,8,target,3,0
+main,본실험,2,248,242,unrelated,무관련,팍,relation_stimulus,61,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,249,243,unrelated,무관련,팍,relation_stimulus,61,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,250,244,unrelated,무관련,츕,second_fill,61,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,251,245,phonological,음운 유사,겋,target_anchor,62,first,0,0,0,,,8,target,3,0
+main,본실험,2,252,246,phonological,음운 유사,겄,relation_stimulus,62,second,0,0,0,,,8,phono,3,0
+main,본실험,2,253,247,phonological,음운 유사,겄,relation_stimulus,62,third,0,0,0,,,8,phono,3,0
+main,본실험,2,254,248,phonological,음운 유사,줼,first_fill,62,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,255,249,orthographic,철자 유사,괒,target_anchor,63,first,0,0,0,,,8,target,3,0
+main,본실험,2,256,250,orthographic,철자 유사,괍,relation_stimulus,63,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,257,251,orthographic,철자 유사,괍,relation_stimulus,63,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,258,252,orthographic,철자 유사,푈,second_fill,63,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,259,253,phonological,음운 유사,흣,target_anchor,64,first,0,0,0,,,8,target,3,0
+main,본실험,2,260,254,phonological,음운 유사,흗,relation_stimulus,64,second,0,0,0,,,8,phono,3,0
+main,본실험,2,261,255,phonological,음운 유사,흗,relation_stimulus,64,third,0,0,0,,,8,phono,3,0
+main,본실험,2,262,256,phonological,음운 유사,흣,target,64,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,263,257,unrelated,무관련,겯,target_anchor,65,first,0,0,0,,,8,target,3,0
+main,본실험,2,264,258,unrelated,무관련,뀜,relation_stimulus,65,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,265,259,unrelated,무관련,뀜,relation_stimulus,65,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,266,260,unrelated,무관련,믛,first_fill,65,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,267,261,orthographic,철자 유사,았,target_anchor,66,first,0,0,0,,,8,target,3,0
+main,본실험,2,268,262,orthographic,철자 유사,앜,relation_stimulus,66,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,269,263,orthographic,철자 유사,앜,relation_stimulus,66,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,270,264,orthographic,철자 유사,았,target,66,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,271,265,orthographic,철자 유사,꿋,target_anchor,67,first,0,0,0,,,8,target,3,0
+main,본실험,2,272,266,orthographic,철자 유사,꿉,relation_stimulus,67,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,273,267,orthographic,철자 유사,꿉,relation_stimulus,67,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,274,268,orthographic,철자 유사,잍,first_fill,67,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,275,269,phonological,음운 유사,떻,target_anchor,68,first,0,0,0,,,8,target,3,0
+main,본실험,2,276,270,phonological,음운 유사,떳,relation_stimulus,68,second,0,0,0,,,8,phono,3,0
+main,본실험,2,277,271,phonological,음운 유사,떳,relation_stimulus,68,third,0,0,0,,,8,phono,3,0
+main,본실험,2,278,272,phonological,음운 유사,떻,target,68,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,279,273,phonological,음운 유사,밷,target_anchor,69,first,0,0,0,,,8,target,3,0
+main,본실험,2,280,274,phonological,음운 유사,뱃,relation_stimulus,69,second,0,0,0,,,8,phono,3,0
+main,본실험,2,281,275,phonological,음운 유사,뱃,relation_stimulus,69,third,0,0,0,,,8,phono,3,0
+main,본실험,2,282,276,phonological,음운 유사,녗,second_fill,69,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,283,277,phonological,음운 유사,늣,target_anchor,70,first,0,0,0,,,8,target,3,0
+main,본실험,2,284,278,phonological,음운 유사,늫,relation_stimulus,70,second,0,0,0,,,8,phono,3,0
+main,본실험,2,285,279,phonological,음운 유사,늫,relation_stimulus,70,third,0,0,0,,,8,phono,3,0
+main,본실험,2,286,280,phonological,음운 유사,늣,target,70,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,287,281,unrelated,무관련,늣,target_anchor,71,first,0,0,0,,,8,target,3,0
+main,본실험,2,288,282,unrelated,무관련,걱,relation_stimulus,71,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,289,283,unrelated,무관련,걱,relation_stimulus,71,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,290,284,unrelated,무관련,핰,second_fill,71,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,291,285,orthographic,철자 유사,읃,target_anchor,72,first,0,0,0,,,8,target,3,0
+main,본실험,2,292,286,orthographic,철자 유사,읖,relation_stimulus,72,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,293,287,orthographic,철자 유사,읖,relation_stimulus,72,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,294,288,orthographic,철자 유사,헢,first_fill,72,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,295,289,orthographic,철자 유사,흣,target_anchor,73,first,0,0,0,,,8,target,3,0
+main,본실험,2,296,290,orthographic,철자 유사,흘,relation_stimulus,73,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,297,291,orthographic,철자 유사,흘,relation_stimulus,73,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,298,292,orthographic,철자 유사,쾟,first_fill,73,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,299,293,orthographic,철자 유사,괒,target_anchor,74,first,0,0,0,,,8,target,3,0
+main,본실험,2,300,294,orthographic,철자 유사,괍,relation_stimulus,74,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,301,295,orthographic,철자 유사,괍,relation_stimulus,74,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,302,296,orthographic,철자 유사,괒,target,74,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,303,297,unrelated,무관련,볓,target_anchor,75,first,0,0,0,,,8,target,3,0
+main,본실험,2,304,298,unrelated,무관련,욱,relation_stimulus,75,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,305,299,unrelated,무관련,욱,relation_stimulus,75,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,306,300,unrelated,무관련,볓,target,75,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,307,301,orthographic,철자 유사,랏,target_anchor,76,first,0,0,0,,,8,target,3,0
+main,본실험,2,308,302,orthographic,철자 유사,랖,relation_stimulus,76,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,309,303,orthographic,철자 유사,랖,relation_stimulus,76,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,310,304,orthographic,철자 유사,샏,second_fill,76,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,311,305,unrelated,무관련,괒,target_anchor,77,first,0,0,0,,,8,target,3,0
+main,본실험,2,312,306,unrelated,무관련,쐰,relation_stimulus,77,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,313,307,unrelated,무관련,쐰,relation_stimulus,77,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,314,308,unrelated,무관련,괒,target,77,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,315,309,phonological,음운 유사,딨,target_anchor,78,first,0,0,0,,,8,target,3,0
+main,본실험,2,316,310,phonological,음운 유사,딫,relation_stimulus,78,second,0,0,0,,,8,phono,3,0
+main,본실험,2,317,311,phonological,음운 유사,딫,relation_stimulus,78,third,0,0,0,,,8,phono,3,0
+main,본실험,2,318,312,phonological,음운 유사,캰,second_fill,78,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,319,313,orthographic,철자 유사,읃,target_anchor,79,first,0,0,0,,,8,target,3,0
+main,본실험,2,320,314,orthographic,철자 유사,읖,relation_stimulus,79,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,321,315,orthographic,철자 유사,읖,relation_stimulus,79,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,322,316,orthographic,철자 유사,읃,target,79,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,323,317,phonological,음운 유사,튿,target_anchor,80,first,0,0,0,,,8,target,3,0
+main,본실험,2,324,318,phonological,음운 유사,틋,relation_stimulus,80,second,0,0,0,,,8,phono,3,0
+main,본실험,2,325,319,phonological,음운 유사,틋,relation_stimulus,80,third,0,0,0,,,8,phono,3,0
+main,본실험,2,326,320,phonological,음운 유사,츕,second_fill,80,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,327,321,orthographic,철자 유사,옇,target_anchor,81,first,0,0,0,,,8,target,3,0
+main,본실험,2,328,322,orthographic,철자 유사,옄,relation_stimulus,81,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,329,323,orthographic,철자 유사,옄,relation_stimulus,81,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,330,324,orthographic,철자 유사,옇,target,81,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,331,325,orthographic,철자 유사,떻,target_anchor,82,first,0,0,0,,,8,target,3,0
+main,본실험,2,332,326,orthographic,철자 유사,떱,relation_stimulus,82,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,333,327,orthographic,철자 유사,떱,relation_stimulus,82,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,334,328,orthographic,철자 유사,룅,first_fill,82,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,335,329,orthographic,철자 유사,갗,target_anchor,83,first,0,0,0,,,8,target,3,0
+main,본실험,2,336,330,orthographic,철자 유사,갘,relation_stimulus,83,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,337,331,orthographic,철자 유사,갘,relation_stimulus,83,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,338,332,orthographic,철자 유사,윞,first_fill,83,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,339,333,orthographic,철자 유사,랏,target_anchor,84,first,0,0,0,,,8,target,3,0
+main,본실험,2,340,334,orthographic,철자 유사,랖,relation_stimulus,84,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,341,335,orthographic,철자 유사,랖,relation_stimulus,84,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,342,336,orthographic,철자 유사,몈,first_fill,84,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,343,337,orthographic,철자 유사,밷,target_anchor,85,first,0,0,0,,,8,target,3,0
+main,본실험,2,344,338,orthographic,철자 유사,뱁,relation_stimulus,85,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,345,339,orthographic,철자 유사,뱁,relation_stimulus,85,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,346,340,orthographic,철자 유사,밷,target,85,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,347,341,unrelated,무관련,겋,target_anchor,86,first,0,0,0,,,8,target,3,0
+main,본실험,2,348,342,unrelated,무관련,꿸,relation_stimulus,86,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,349,343,unrelated,무관련,꿸,relation_stimulus,86,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,350,344,unrelated,무관련,눝,second_fill,86,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,351,345,phonological,음운 유사,흣,target_anchor,87,first,0,0,0,,,8,target,3,0
+main,본실험,2,352,346,phonological,음운 유사,흗,relation_stimulus,87,second,0,0,0,,,8,phono,3,0
+main,본실험,2,353,347,phonological,음운 유사,흗,relation_stimulus,87,third,0,0,0,,,8,phono,3,0
+main,본실험,2,354,348,phonological,음운 유사,뷤,second_fill,87,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,355,349,orthographic,철자 유사,녔,target_anchor,88,first,0,0,0,,,8,target,3,0
+main,본실험,2,356,350,orthographic,철자 유사,녈,relation_stimulus,88,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,357,351,orthographic,철자 유사,녈,relation_stimulus,88,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,358,352,orthographic,철자 유사,녔,target,88,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,359,353,orthographic,철자 유사,겯,target_anchor,89,first,0,0,0,,,8,target,3,0
+main,본실험,2,360,354,orthographic,철자 유사,곂,relation_stimulus,89,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,361,355,orthographic,철자 유사,곂,relation_stimulus,89,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,362,356,orthographic,철자 유사,겯,target,89,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,363,357,unrelated,무관련,았,target_anchor,90,first,0,0,0,,,8,target,3,0
+main,본실험,2,364,358,unrelated,무관련,칙,relation_stimulus,90,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,365,359,unrelated,무관련,칙,relation_stimulus,90,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,366,360,unrelated,무관련,즁,second_fill,90,fourth,0,0,0,,,8,second_fill,3,1
+main,본실험,2,367,,dummy,더미,휵,dummy,,,1,0,0,,,9,dummy,3,0
+main,본실험,2,368,,dummy,더미,렆,dummy,,,1,0,0,,,9,dummy,3,0
+main,본실험,2,369,,dummy,더미,똨,dummy,,,1,0,0,,,9,dummy,3,0
+main,본실험,2,370,361,orthographic,철자 유사,꿋,target_anchor,91,first,0,0,0,,,8,target,3,0
+main,본실험,2,371,362,orthographic,철자 유사,꿉,relation_stimulus,91,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,372,363,orthographic,철자 유사,꿉,relation_stimulus,91,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,373,364,orthographic,철자 유사,꿋,target,91,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,374,365,unrelated,무관련,귿,target_anchor,92,first,0,0,0,,,8,target,3,0
+main,본실험,2,375,366,unrelated,무관련,댄,relation_stimulus,92,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,376,367,unrelated,무관련,댄,relation_stimulus,92,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,377,368,unrelated,무관련,왭,first_fill,92,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,378,369,phonological,음운 유사,둣,target_anchor,93,first,0,0,0,,,8,target,3,0
+main,본실험,2,379,370,phonological,음운 유사,둗,relation_stimulus,93,second,0,0,0,,,8,phono,3,0
+main,본실험,2,380,371,phonological,음운 유사,둗,relation_stimulus,93,third,0,0,0,,,8,phono,3,0
+main,본실험,2,381,372,phonological,음운 유사,믚,second_fill,93,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,382,373,unrelated,무관련,았,target_anchor,94,first,0,0,0,,,8,target,3,0
+main,본실험,2,383,374,unrelated,무관련,칙,relation_stimulus,94,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,384,375,unrelated,무관련,칙,relation_stimulus,94,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,385,376,unrelated,무관련,았,target,94,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,386,377,orthographic,철자 유사,깆,target_anchor,95,first,0,0,0,,,8,target,3,0
+main,본실험,2,387,378,orthographic,철자 유사,긱,relation_stimulus,95,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,388,379,orthographic,철자 유사,긱,relation_stimulus,95,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,389,380,orthographic,철자 유사,낲,first_fill,95,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,390,381,unrelated,무관련,딨,target_anchor,96,first,0,0,0,,,8,target,3,0
+main,본실험,2,391,382,unrelated,무관련,쥘,relation_stimulus,96,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,392,383,unrelated,무관련,쥘,relation_stimulus,96,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,393,384,unrelated,무관련,캰,second_fill,96,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,394,385,unrelated,무관련,녔,target_anchor,97,first,0,0,0,,,8,target,3,0
+main,본실험,2,395,386,unrelated,무관련,닦,relation_stimulus,97,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,396,387,unrelated,무관련,닦,relation_stimulus,97,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,397,388,unrelated,무관련,줃,first_fill,97,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,398,389,orthographic,철자 유사,섣,target_anchor,98,first,0,0,0,,,8,target,3,0
+main,본실험,2,399,390,orthographic,철자 유사,섴,relation_stimulus,98,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,400,391,orthographic,철자 유사,섴,relation_stimulus,98,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,401,392,orthographic,철자 유사,섣,target,98,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,402,393,unrelated,무관련,떻,target_anchor,99,first,0,0,0,,,8,target,3,0
+main,본실험,2,403,394,unrelated,무관련,괜,relation_stimulus,99,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,404,395,unrelated,무관련,괜,relation_stimulus,99,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,405,396,unrelated,무관련,먑,second_fill,99,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,406,397,phonological,음운 유사,늣,target_anchor,100,first,0,0,0,,,8,target,3,0
+main,본실험,2,407,398,phonological,음운 유사,늫,relation_stimulus,100,second,0,0,0,,,8,phono,3,0
+main,본실험,2,408,399,phonological,음운 유사,늫,relation_stimulus,100,third,0,0,0,,,8,phono,3,0
+main,본실험,2,409,400,phonological,음운 유사,텆,first_fill,100,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,410,401,phonological,음운 유사,짗,target_anchor,101,first,0,0,0,,,8,target,3,0
+main,본실험,2,411,402,phonological,음운 유사,짇,relation_stimulus,101,second,0,0,0,,,8,phono,3,0
+main,본실험,2,412,403,phonological,음운 유사,짇,relation_stimulus,101,third,0,0,0,,,8,phono,3,0
+main,본실험,2,413,404,phonological,음운 유사,톼,first_fill,101,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,414,405,unrelated,무관련,었,target_anchor,102,first,0,0,0,,,8,target,3,0
+main,본실험,2,415,406,unrelated,무관련,룽,relation_stimulus,102,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,416,407,unrelated,무관련,룽,relation_stimulus,102,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,417,408,unrelated,무관련,풔,second_fill,102,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,418,409,unrelated,무관련,밫,target_anchor,103,first,0,0,0,,,8,target,3,0
+main,본실험,2,419,410,unrelated,무관련,맹,relation_stimulus,103,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,420,411,unrelated,무관련,맹,relation_stimulus,103,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,421,412,unrelated,무관련,밫,target,103,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,422,413,unrelated,무관련,멌,target_anchor,104,first,0,0,0,,,8,target,3,0
+main,본실험,2,423,414,unrelated,무관련,셤,relation_stimulus,104,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,424,415,unrelated,무관련,셤,relation_stimulus,104,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,425,416,unrelated,무관련,앻,first_fill,104,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,426,417,unrelated,무관련,늣,target_anchor,105,first,0,0,0,,,8,target,3,0
+main,본실험,2,427,418,unrelated,무관련,걱,relation_stimulus,105,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,428,419,unrelated,무관련,걱,relation_stimulus,105,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,429,420,unrelated,무관련,텆,first_fill,105,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,430,421,orthographic,철자 유사,밫,target_anchor,106,first,0,0,0,,,8,target,3,0
+main,본실험,2,431,422,orthographic,철자 유사,밬,relation_stimulus,106,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,432,423,orthographic,철자 유사,밬,relation_stimulus,106,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,433,424,orthographic,철자 유사,욛,first_fill,106,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,434,425,phonological,음운 유사,읃,target_anchor,107,first,0,0,0,,,8,target,3,0
+main,본실험,2,435,426,phonological,음운 유사,읏,relation_stimulus,107,second,0,0,0,,,8,phono,3,0
+main,본실험,2,436,427,phonological,음운 유사,읏,relation_stimulus,107,third,0,0,0,,,8,phono,3,0
+main,본실험,2,437,428,phonological,음운 유사,읃,target,107,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,438,429,orthographic,철자 유사,렇,target_anchor,108,first,0,0,0,,,8,target,3,0
+main,본실험,2,439,430,orthographic,철자 유사,럴,relation_stimulus,108,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,440,431,orthographic,철자 유사,럴,relation_stimulus,108,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,441,432,orthographic,철자 유사,쇵,first_fill,108,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,442,433,orthographic,철자 유사,튿,target_anchor,109,first,0,0,0,,,8,target,3,0
+main,본실험,2,443,434,orthographic,철자 유사,틍,relation_stimulus,109,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,444,435,orthographic,철자 유사,틍,relation_stimulus,109,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,445,436,orthographic,철자 유사,츕,second_fill,109,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,446,437,unrelated,무관련,갗,target_anchor,110,first,0,0,0,,,8,target,3,0
+main,본실험,2,447,438,unrelated,무관련,눤,relation_stimulus,110,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,448,439,unrelated,무관련,눤,relation_stimulus,110,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,449,440,unrelated,무관련,윞,first_fill,110,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,450,441,phonological,음운 유사,튿,target_anchor,111,first,0,0,0,,,8,target,3,0
+main,본실험,2,451,442,phonological,음운 유사,틋,relation_stimulus,111,second,0,0,0,,,8,phono,3,0
+main,본실험,2,452,443,phonological,음운 유사,틋,relation_stimulus,111,third,0,0,0,,,8,phono,3,0
+main,본실험,2,453,444,phonological,음운 유사,튿,target,111,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,454,445,orthographic,철자 유사,맻,target_anchor,112,first,0,0,0,,,8,target,3,0
+main,본실험,2,455,446,orthographic,철자 유사,맾,relation_stimulus,112,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,456,447,orthographic,철자 유사,맾,relation_stimulus,112,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,457,448,orthographic,철자 유사,뤈,first_fill,112,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,458,449,orthographic,철자 유사,밫,target_anchor,113,first,0,0,0,,,8,target,3,0
+main,본실험,2,459,450,orthographic,철자 유사,밬,relation_stimulus,113,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,460,451,orthographic,철자 유사,밬,relation_stimulus,113,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,461,452,orthographic,철자 유사,갣,second_fill,113,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,462,453,phonological,음운 유사,얗,target_anchor,114,first,0,0,0,,,8,target,3,0
+main,본실험,2,463,454,phonological,음운 유사,얐,relation_stimulus,114,second,0,0,0,,,8,phono,3,0
+main,본실험,2,464,455,phonological,음운 유사,얐,relation_stimulus,114,third,0,0,0,,,8,phono,3,0
+main,본실험,2,465,456,phonological,음운 유사,얗,target,114,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,466,457,phonological,음운 유사,겋,target_anchor,115,first,0,0,0,,,8,target,3,0
+main,본실험,2,467,458,phonological,음운 유사,겄,relation_stimulus,115,second,0,0,0,,,8,phono,3,0
+main,본실험,2,468,459,phonological,음운 유사,겄,relation_stimulus,115,third,0,0,0,,,8,phono,3,0
+main,본실험,2,469,460,phonological,음운 유사,눝,second_fill,115,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,470,461,orthographic,철자 유사,었,target_anchor,116,first,0,0,0,,,8,target,3,0
+main,본실험,2,471,462,orthographic,철자 유사,엌,relation_stimulus,116,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,472,463,orthographic,철자 유사,엌,relation_stimulus,116,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,473,464,orthographic,철자 유사,묠,first_fill,116,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,474,465,unrelated,무관련,밷,target_anchor,117,first,0,0,0,,,8,target,3,0
+main,본실험,2,475,466,unrelated,무관련,뻔,relation_stimulus,117,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,476,467,unrelated,무관련,뻔,relation_stimulus,117,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,477,468,unrelated,무관련,녗,second_fill,117,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,478,469,phonological,음운 유사,릇,target_anchor,118,first,0,0,0,,,8,target,3,0
+main,본실험,2,479,470,phonological,음운 유사,릏,relation_stimulus,118,second,0,0,0,,,8,phono,3,0
+main,본실험,2,480,471,phonological,음운 유사,릏,relation_stimulus,118,third,0,0,0,,,8,phono,3,0
+main,본실험,2,481,472,phonological,음운 유사,릇,target,118,fourth,0,1,1,space,P_respond,2,target,3,0
+main,본실험,2,482,473,orthographic,철자 유사,얗,target_anchor,119,first,0,0,0,,,8,target,3,0
+main,본실험,2,483,474,orthographic,철자 유사,얌,relation_stimulus,119,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,484,475,orthographic,철자 유사,얌,relation_stimulus,119,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,485,476,orthographic,철자 유사,뒐,first_fill,119,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,486,477,unrelated,무관련,릇,target_anchor,120,first,0,0,0,,,8,target,3,0
+main,본실험,2,487,478,unrelated,무관련,앤,relation_stimulus,120,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,488,479,unrelated,무관련,앤,relation_stimulus,120,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,489,480,unrelated,무관련,덬,second_fill,120,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,490,481,unrelated,무관련,귿,target_anchor,121,first,0,0,0,,,8,target,3,0
+main,본실험,2,491,482,unrelated,무관련,댄,relation_stimulus,121,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,492,483,unrelated,무관련,댄,relation_stimulus,121,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,493,484,unrelated,무관련,퐉,second_fill,121,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,494,485,unrelated,무관련,섣,target_anchor,122,first,0,0,0,,,8,target,3,0
+main,본실험,2,495,486,unrelated,무관련,괸,relation_stimulus,122,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,496,487,unrelated,무관련,괸,relation_stimulus,122,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,497,488,unrelated,무관련,섣,target,122,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,498,489,orthographic,철자 유사,볓,target_anchor,123,first,0,0,0,,,8,target,3,0
+main,본실험,2,499,490,orthographic,철자 유사,볍,relation_stimulus,123,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,500,491,orthographic,철자 유사,볍,relation_stimulus,123,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,501,492,orthographic,철자 유사,뫅,first_fill,123,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,502,493,unrelated,무관련,늣,target_anchor,124,first,0,0,0,,,8,target,3,0
+main,본실험,2,503,494,unrelated,무관련,걱,relation_stimulus,124,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,504,495,unrelated,무관련,걱,relation_stimulus,124,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,505,496,unrelated,무관련,늣,target,124,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,506,497,orthographic,철자 유사,멌,target_anchor,125,first,0,0,0,,,8,target,3,0
+main,본실험,2,507,498,orthographic,철자 유사,멉,relation_stimulus,125,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,508,499,orthographic,철자 유사,멉,relation_stimulus,125,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,509,500,orthographic,철자 유사,앻,first_fill,125,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,510,501,orthographic,철자 유사,늣,target_anchor,126,first,0,0,0,,,8,target,3,0
+main,본실험,2,511,502,orthographic,철자 유사,늨,relation_stimulus,126,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,512,503,orthographic,철자 유사,늨,relation_stimulus,126,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,513,504,orthographic,철자 유사,핰,second_fill,126,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,514,505,orthographic,철자 유사,섣,target_anchor,127,first,0,0,0,,,8,target,3,0
+main,본실험,2,515,506,orthographic,철자 유사,섴,relation_stimulus,127,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,516,507,orthographic,철자 유사,섴,relation_stimulus,127,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,517,508,orthographic,철자 유사,놩,first_fill,127,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,518,509,orthographic,철자 유사,었,target_anchor,128,first,0,0,0,,,8,target,3,0
+main,본실험,2,519,510,orthographic,철자 유사,엌,relation_stimulus,128,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,520,511,orthographic,철자 유사,엌,relation_stimulus,128,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,521,512,orthographic,철자 유사,었,target,128,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,522,513,unrelated,무관련,흣,target_anchor,129,first,0,0,0,,,8,target,3,0
+main,본실험,2,523,514,unrelated,무관련,츙,relation_stimulus,129,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,524,515,unrelated,무관련,츙,relation_stimulus,129,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,525,516,unrelated,무관련,뷤,second_fill,129,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,526,517,unrelated,무관련,튿,target_anchor,130,first,0,0,0,,,8,target,3,0
+main,본실험,2,527,518,unrelated,무관련,팍,relation_stimulus,130,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,528,519,unrelated,무관련,팍,relation_stimulus,130,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,529,520,unrelated,무관련,뉔,first_fill,130,fourth,0,0,0,,,8,first_fill,3,0
+main,본실험,2,530,521,unrelated,무관련,짗,target_anchor,131,first,0,0,0,,,8,target,3,0
+main,본실험,2,531,522,unrelated,무관련,뀝,relation_stimulus,131,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,532,523,unrelated,무관련,뀝,relation_stimulus,131,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,533,524,unrelated,무관련,짗,target,131,fourth,0,1,1,space,U_respond,3,target,3,0
+main,본실험,2,534,525,unrelated,무관련,맻,target_anchor,132,first,0,0,0,,,8,target,3,0
+main,본실험,2,535,526,unrelated,무관련,욤,relation_stimulus,132,second,0,0,0,,,8,unrelated,3,0
+main,본실험,2,536,527,unrelated,무관련,욤,relation_stimulus,132,third,0,0,0,,,8,unrelated,3,0
+main,본실험,2,537,528,unrelated,무관련,뷕,second_fill,132,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,538,529,orthographic,철자 유사,었,target_anchor,133,first,0,0,0,,,8,target,3,0
+main,본실험,2,539,530,orthographic,철자 유사,엌,relation_stimulus,133,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,540,531,orthographic,철자 유사,엌,relation_stimulus,133,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,541,532,orthographic,철자 유사,풔,second_fill,133,fourth,0,0,0,,,8,second_fill,3,0
+main,본실험,2,542,533,orthographic,철자 유사,렇,target_anchor,134,first,0,0,0,,,8,target,3,0
+main,본실험,2,543,534,orthographic,철자 유사,럴,relation_stimulus,134,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,544,535,orthographic,철자 유사,럴,relation_stimulus,134,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,545,536,orthographic,철자 유사,렇,target,134,fourth,0,1,1,space,O_respond,1,target,3,0
+main,본실험,2,546,537,orthographic,철자 유사,딨,target_anchor,135,first,0,0,0,,,8,target,3,0
+main,본실험,2,547,538,orthographic,철자 유사,딕,relation_stimulus,135,second,0,0,0,,,8,ortho,3,0
+main,본실험,2,548,539,orthographic,철자 유사,딕,relation_stimulus,135,third,0,0,0,,,8,ortho,3,0
+main,본실험,2,549,540,orthographic,철자 유사,캰,second_fill,135,fourth,0,0,0,,,8,second_fill,3,0
